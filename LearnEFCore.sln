@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnEFCore", "LearnEFCore\LearnEFCore.csproj", "{BCC90D68-194C-48C6-980A-AEA8EF161221}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{C8A702C3-BE6F-4995-9C4A-F2E87A0B1A71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamuraiApp.Domain", "Domain\SamuraiApp.Domain.csproj", "{C8A702C3-BE6F-4995-9C4A-F2E87A0B1A71}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{09A016A5-8086-4F2C-BC0E-9DC02C5F5A80}"
 EndProject
